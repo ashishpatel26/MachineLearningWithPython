@@ -4,9 +4,12 @@ BUAN 6341
 Applied Machine Learning 
 Spring 2018
 
+_______________________________
 
 Over the Few Months, 
 I will implement the Variour Machine Learning Algorithms with topics like
+
+_______________________________
 
 Supervised & Unsupervised Learning Introduction Regression and Classification
 
