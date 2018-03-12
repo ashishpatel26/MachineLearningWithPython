@@ -1,3 +1,8 @@
+
+Implemented Decision Tree, Support vector Machines and Adaboost on 2 data sets:
+1) Online News Popularity Shares
+2) Telecom Churn Dataset
+
 To run the code :
 
 You need to have following libraries:
