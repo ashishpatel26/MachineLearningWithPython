@@ -2,12 +2,12 @@ To run the code :
 
 You need to have following libraries:
 
-numpy
-matplotlib
-pandas
-sklearn
-seaborn
-graphviz
+1) numpy
+2) matplotlib
+3) pandas
+4) sklearn
+5) seaborn
+6) graphviz
 
 
 As this is executed in Jupyter notebooks:
