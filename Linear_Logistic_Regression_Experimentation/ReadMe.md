@@ -11,7 +11,7 @@ You are required to implement the following two algorithms:
 3. Convert this problem into a binary classification problem. The target variable should have two values (large or small number of shares).
 4. Implement logistic regression to carry out classification on this data set. Report accuracy/error metrics for train and test sets.
 
-#Experimentation:
+# Experimentation:
 
 1. Experiment with various model parameters for both linear and logistic regression and report on your findings as how the error varies for train and test sets with varying these parameters. Plot the results. Report your best parameters. Examples of these parameters can be learning rate for gradient descent, convergence threshold, etc.
 2. Pick ten features randomly and retrain your model only on these ten features. Compare train and test error results for the case of using all features to using ten random features. Report which ten features did you select randomly.
