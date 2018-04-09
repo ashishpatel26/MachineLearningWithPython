@@ -1,7 +1,6 @@
-# Implemented ANN,KNN on 2 data set
+# Implemented Artificial Neural Networks and K Nearest Neighbors:
 
-1. Artificial Neural Networks and 
-2. K Nearest Neighbors:
+Datasets:
 
 1. Online News Popularity Shares
 2. Telecom Churn Dataset
