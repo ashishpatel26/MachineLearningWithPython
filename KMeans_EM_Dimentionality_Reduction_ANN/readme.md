@@ -9,3 +9,5 @@
 2. PCA
 3. ICA
 4. Randomized Projections
+
+[embed]https://github.com/animeshKansal/MachineLearningWithPython/blob/master/KMeans_EM_Dimentionality_Reduction_ANN/Final%20Report.pdf[/embed]
