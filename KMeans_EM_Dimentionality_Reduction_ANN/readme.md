@@ -10,5 +10,3 @@
 3. ICA
 4. Randomized Projections
 
-https://docs.google.com/viewer?url=${https://github.com/animeshKansal/MachineLearningWithPython/blob/master/KMeans_EM_Dimentionality_Reduction_ANN/Final%20Report.pdf}
-
